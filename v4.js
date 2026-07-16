@@ -1,14 +1,14 @@
-// const rickshawfare=200;
+const rickshawfare=200;
 
 
 
-// if(rickshawfare<50){
-//    console.log("mama ki khobor") ;
+if(rickshawfare<50){
+   console.log("mama ki khobor") ;
 
-// }
-// else{
-//     console.log("mama jabo na");
-// }
+}
+else{
+    console.log("mama jabo na");
+}
 
 
 
